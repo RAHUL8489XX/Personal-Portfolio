@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website inspired by tanveer sir, Thanks to him.",
+    "image": "portfolio",
+    "category": "web",
+    "links": {
+      "view": "https://rahul-yogi-portfolio.netlify.app/",
+      "code": "https://github.com/RAHUL8489XX/Personal-Portfolio"
+    }
+  },
+  {
+    "name": "Personal Jarvis",
+    "desc": "Meet my personal AI assistant named Raphael. An intelligent automation tool designed to streamline workflows and enhance productivity.",
+    "image": "Raphael",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/RAHUL8489XX",
+      "code": "https://github.com/RAHUL8489XX"
+    }
+  }
+]

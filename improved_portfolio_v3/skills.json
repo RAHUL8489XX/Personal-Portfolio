@@ -1,0 +1,99 @@
+[
+
+  {
+    "name": "Artist",
+    "icon": "./assets/images/skills/Artist.png"
+  },
+  {
+    "name": "Pattern Recognition",
+    "icon": "./assets/images/skills/flutist.png"
+  },
+  {
+    "name": "Blogging",
+    "icon": "./assets/images/skills/Blogging.png"
+  },
+  {
+    "name": "HTML",
+    "icon": "./assets/images/skills/icons8-html-96.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "./assets/images/skills/javascript.png"
+  },
+  {
+    "name": "Poetry",
+    "icon": "./assets/images/skills/Poetery.png"
+  },
+  {
+    "name": "Psychology",
+    "icon": "./assets/images/skills/Psychology.png"
+  },
+  {
+    "name": "Python",
+    "icon": "./assets/images/skills/python.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "./assets/images/skills/github.png"
+  },
+  {
+    "name": "Philosophy",
+    "icon": "./assets/images/skills/Philosophy.png"
+  },
+  {
+    "name": "Wing Chun & Krav Maga Practitioner",
+    "icon": "./assets/images/skills/Combats.png"
+  },
+  {
+    "name": "Critical & Creative Thinking",
+    "icon": "./assets/images/skills/Thinking.png"
+  },
+  {
+    "name": "SEO Ranking",
+    "icon": "./assets/images/skills/seo.png"
+  },
+  {
+    "name": "Editing",
+    "icon": "./assets/images/skills/Editing.png"
+  },
+  {
+    "name": "Ethical Hacking",
+    "icon": "./assets/images/skills/Hacking.png"
+  },
+  {
+    "name": "Penetration Testing",
+    "icon": "./assets/images/skills/Penetration.png"
+  },
+  {
+    "name": "Stoic Resilience",
+    "icon": "./assets/images/skills/machine.png"
+  },
+  {
+    "name": "Problem Solving",
+    "icon": "./assets/images/skills/Solving.png"
+  },
+  {
+    "name": "Chess",
+    "icon": "./assets/images/skills/Chess.png"
+  },
+  {
+    "name": "C",
+    "icon": "./assets/images/skills/C.png"
+  },
+  {
+    "name": "CSS",
+    "icon": "./assets/images/skills/css.png"
+  },
+  {
+    "name": "Marketing Insights",
+    "icon": "./assets/images/skills/Marketing.png"
+  },
+  {
+    "name": "Prompt Engineering",
+    "icon": "./assets/images/skills/Prompt.png"
+  }
+  {
+    "name": "Silent Observation",
+    "icon": "./assets/images/skills/piano.png"
+  }
+]
