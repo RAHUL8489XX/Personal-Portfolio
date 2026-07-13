@@ -187,12 +187,38 @@ header .navbar ul li a:hover {
   min-height: 100vh;
   align-items: center;
 }
+.home .iridescence-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.home .iridescence-bg canvas {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+}
+
+.home .particles-overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+
 .home #particles-js {
   position: absolute;
   width: 100%;
   height: 100%;
-  top:0;
+  top: 0;
   left: 0;
+  z-index: 2;
 }
 .home::before {
   content: "";
@@ -205,11 +231,13 @@ header .navbar ul li a:hover {
 .home .content {
   flex: 1 1 40rem;
   padding-top: 1rem;
-  z-index: 1;
+  z-index: 10;
+  position: relative;
 }
 .home .image {
   flex: 1 1 40rem;
-  z-index: 1;
+  z-index: 10;
+  position: relative;
 }
 .home .image img {
   width: 100%;
@@ -1228,3 +1256,37 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+/* night mode toggle button */
+#night-mode-toggle {
+  position: absolute;
+  top: 1.5rem;
+  right: 2.5rem;
+  background: #222;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1.5rem;
+  z-index: 1100;
+  transition: background 0.3s;
+}
+
+#night-mode-toggle:hover {
+  background: #444;
+}
+
+#night-mode-toggle.dark-mode-active {
+  background: #fff;
+  color: #222;
+}
+
+#night-mode-toggle.dark-mode-active:hover {
+  background: #e0e0e0;
+}
+/* night mode toggle button ends */
